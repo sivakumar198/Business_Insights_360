@@ -94,7 +94,30 @@ Data from a MySQL database is imported into Power BI by providing the necessary 
 
 ## Data Modeling
 
-Data modeling is crucial for report performance. This project utilizes the Snowflake Schema for data modeling. Adhering to good data modeling practices ensures efficient and effective report generation.
+- Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+- Poor data modeling affects the over all performance of the report.
+- ollowing Good practices of data modeling is must.
+- In this project, we have followed Snowfall data modeling method.
+
+![Alt Text](https://github.com/sivakumar198/Business_Insights_360/blob/main/resources/Screenshot%202024-09-04%20210855.png)
+
 
 ## Overall Report
+![Alt Text](https://github.com/sivakumar198/Business_Insights_360/blob/main/resources/Business_Insights360-1.png)
+## Finance View
+![Alt Text](https://github.com/sivakumar198/Business_Insights_360/blob/main/resources/Business_Insights360-2.png)
+## Sales View
+![Alt Text](https://github.com/sivakumar198/Business_Insights_360/blob/main/resources/Business_Insights360-3.png)
+## Marketing view
+![Alt Text](https://github.com/sivakumar198/Business_Insights_360/blob/main/resources/Business_Insights360-4.png)
+## Supplychain View
+![Alt Text](https://github.com/sivakumar198/Business_Insights_360/blob/main/resources/Business_Insights360-5.png)
+## Executive View
+![Alt Text](https://github.com/sivakumar198/Business_Insights_360/blob/main/resources/Business_Insights360-6.png)
+## Products
+![Alt Text](https://github.com/sivakumar198/Business_Insights_360/blob/main/resources/Screenshot%202024-09-04%20210649.png)
+
+## Project Outcome
+By using this report, one can take decisions based on data. Further it will also help in answering number of business questions.
+
 
